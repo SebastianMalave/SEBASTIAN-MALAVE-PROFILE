@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -9,10 +8,10 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-grey">
+<body class="w3-blue-grey">
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1200
+<div class="w3-content w3-margin-top" style="max-width:1800
 px;">
 
 
@@ -34,8 +33,8 @@ px;">
         </div>
    		 <h2 class=" w3-margin center"><b>Sebastian Malave </b></h2>
     <div class="w3-container">
-  <p><i class="w4-margin-center"></i>COMMUNITY| INTEGRITY| LEADERSHIP</b></p>
-</i> Highly motivated honors public health college student looking for oppoortunities in progressive healthcare environments.Seeking a challenging and responsible job position as a public health advocate promoting medical and safety inniatives for local and global communities. </p>
+  <i class="w4-margin-center"></i>COMMUNITY| INTEGRITY| LEADERSHIP>
+Highly motivated honors public health college student looking for oppoortunities in progressive healthcare environments.Seeking a challenging and responsible job position as a public health advocate promoting medical and safety inniatives for local and global communities. </p>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Public Health Advocate</p>
               <p><i class="fa fa-pencil fa-fw w3-margin-right w3-large w3-text-teal"></i>Student at University of Hawaii</p>
                 <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Honlulu, HI</p>
