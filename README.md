@@ -1,5 +1,4 @@
 
-
 <title>Resume Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +11,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <body class="w3- blue-grey ">
 
 <!-- Page Container -->
-<div class="w3-content w3-margin-top" style="max-width:1800px;">
+<div class="w3-content w3-margin-top" style="max-width:1600px;">
 
 
   <!-- The Grid -->
@@ -79,8 +78,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">100%</div>
           </div>
-
-        
+          <br>
         </div>
       </div><br>
 
@@ -102,11 +100,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 •	Founded Non-Profit 
 •	Public Health Research Intern <p>
 •	CRU Student Leader
-•	2017 CRU Japan Missionary <h6> <p>
-       
-                </div></div><br>
+•	2017 CRU Japan Missionary <h6> 
+               </p><br>
+        </div>
+      </div>
 
-      <div class="w3-container w3-card w3-white w3-margin-bottom">
+  <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i><b>Work Experience</h2><b>
         <div class="w3-container">
         
@@ -140,7 +139,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
       </div><br>
 
-      <div class="w3-container w3-card w3-white">
+       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-file fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           
